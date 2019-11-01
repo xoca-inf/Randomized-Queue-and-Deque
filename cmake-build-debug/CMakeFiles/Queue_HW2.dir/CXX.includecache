@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/tima/CLionProjects/Queue HW2/randomized_queue.cpp
+randomized_queue.hpp
+C:/Users/tima/CLionProjects/Queue HW2/randomized_queue.hpp
+
+C:/Users/tima/CLionProjects/Queue HW2/randomized_queue.hpp
+vector
+-
+random
+-
+algorithm
+-
+stdexcept
+-
+
+C:/Users/tima/CLionProjects/Queue HW2/randomized_queue_test.cpp
+iostream
+-
+assert.h
+-
+randomized_queue.hpp
+C:/Users/tima/CLionProjects/Queue HW2/randomized_queue.hpp
+randomized_queue.cpp
+C:/Users/tima/CLionProjects/Queue HW2/randomized_queue.cpp
+

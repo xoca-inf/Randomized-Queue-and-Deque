@@ -1,0 +1,3 @@
+C:/Users/tima/CLionProjects/Queue HW2/cmake-build-debug/CMakeFiles/Queue_HW2.dir
+C:/Users/tima/CLionProjects/Queue HW2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tima/CLionProjects/Queue HW2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
